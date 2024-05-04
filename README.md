@@ -1,4 +1,8 @@
+# Name: Sri Vignesh G
+# Reg No: 212223040204
+
 # Ex:07 Linux File IO Systems locking
+
 # AIM:
 To Write a C program that illustrates files copying and locking
 
